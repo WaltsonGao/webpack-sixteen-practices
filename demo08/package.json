@@ -1,0 +1,17 @@
+{
+  "name": "webpack-demo08",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "webpack-cli": "^2.0.14"
+  },
+  "devDependencies": {
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^3.0.6"
+  }
+}

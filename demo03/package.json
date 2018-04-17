@@ -1,0 +1,13 @@
+{
+  "name": "webpack-demo3",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1"
+  }
+}
